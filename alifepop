@@ -1,0 +1,7 @@
+回声“# alifepop”>> README.md
+git init
+git add README.md
+git commit -m“第一次提交”
+git分支-M main
+git remote add origin https://github.com/Chanwaifo1979/alifepop.git
+git push-u origin main
